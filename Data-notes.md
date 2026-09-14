@@ -8,20 +8,19 @@
 	- No nulls in ward name
 	- My LGA is fully covered
 
-	## Sapele_Secondary_Highway
-	- Source: extracted via QuickOSM
-	- Query: highway= secondary within Sapele
-	- Extracted: 08/09/2026
-	- 29 features, lines
-	- Columns: fid, full_id, osm_id, osm_type, highway, lanes, surface, layer, bridge, name, junction, oneway
+## Roads
+	- Source: https://data.humdata.org
+	- Downloaded: 08/09/2026
+	- 1756750 features, lines
+	- Columns: fid, id, name, name_en, name_yo, highway, smoothness, width, lanes, surface, layer, bridge, source, oneway, adm0_pcode, adm0_name, adm1_pcode, adm1_name, adm2_pcode, adm2_name, adm3_pcode, adm3_name, adm4_pcode, adm4_name, name_latin
 	- Many have no surface tag, no lanes tag, no name tag
-	- There is a fair coverage only within the urban area
+	- The LGA is fully covered
 
-### Sapele_Primary_Highway
-	- Source: extracted via QuickOSM
-	- Query: highway= secondary within Sapele
-	- Extracted: 08/09/2026
-	- 29 features, lines
-	- Columns: fid, full_id, osm_id, osm_type, highway, lanes, surface, layer, bridge, name, junction, oneway
-	- Many have no surface tag, no lanes tag, no name tag
-	- There is a fair coverage only within the urban area
+	
+#### GRID3 NGA Health Facility
+	- Source: https://data.grid3.org
+	- Downloaded: 08/09/2026
+	- Features: 350, point
+	- Columns: OBJECTID, unique_id, latitude, longitude, country, iso, state_standard, lga_standard, ward_standard, ward_bdry, ward_in_grid3_ward_list, facility_name, alt_name, settlement_name,- facility_level, facility_type, facility_ownership, facility_ownership_type, functional, date_created, sett_ext_type, mgrs_code, input_data_record_ids, input_data_sources, nhfr_facility_code, gps_accuracy, sett_ext_dist_m, dist_ward_grid3_bdry_km, flag1, flag2, flag3, flag4, flag5, flag6, issues, flag_count
+	- LGA is fully covered
+

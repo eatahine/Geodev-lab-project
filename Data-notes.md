@@ -8,7 +8,7 @@
 	- No nulls in ward name
 	- My LGA is fully covered
 
-## Roads
+### Roads
 	- Source: https://data.humdata.org
 	- Downloaded: 08/09/2026
 	- 1756750 features, lines
@@ -24,3 +24,9 @@
 	- Columns: OBJECTID, unique_id, latitude, longitude, country, iso, state_standard, lga_standard, ward_standard, ward_bdry, ward_in_grid3_ward_list, facility_name, alt_name, settlement_name,- facility_level, facility_type, facility_ownership, facility_ownership_type, functional, date_created, sett_ext_type, mgrs_code, input_data_record_ids, input_data_sources, nhfr_facility_code, gps_accuracy, sett_ext_dist_m, dist_ward_grid3_bdry_km, flag1, flag2, flag3, flag4, flag5, flag6, issues, flag_count
 	- LGA is fully covered
 
+##### Rivers
+	- Source: https://data.humdata.org
+	- Downloaded: 08/09/2026
+	- Features: 1527551, lines
+	- Columns: OBJECTID, HYRIV_ID, NEXT_DOWN, MAIN_RIV, LENGTH_KM, DIST_DN_KM, DIST_UP_KM, CATCH_SKM, UPLAND_SKM, ENDORHEIC, DIS_AV_CMS, ORD_STRA, ORD_CLAS, ORD_FLOW, HYBAS_L12, Shape_Length
+	- LGA is fully covered

@@ -12,3 +12,9 @@ week-2:  https://github.com/eatahine/Geodev-lab-project/tree/main/Week-2
 week-3:  https://github.com/eatahine/Geodev-lab-project/tree/main/Week-3
 
 week-4:  https://github.com/eatahine/Geodev-lab-project/tree/main/Week-4
+
+# Month 2 - Development Environment and Early Python
+week-5:  Terminal and VS Code
+         https://github.com/eatahine/Geodev-lab-project/tree/main/Week-5
+
+

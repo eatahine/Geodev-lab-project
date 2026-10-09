@@ -17,4 +17,8 @@ week-4:  https://github.com/eatahine/Geodev-lab-project/tree/main/Week-4
 week-5:  Terminal and VS Code
          https://github.com/eatahine/Geodev-lab-project/tree/main/Week-5
 
+week-6: Set up the project with uv and added pandas. check.py prints the pandas version.
+        https://github.com/eatahine/Geodev-lab-project/tree/main/Week-6
+
+
 

@@ -20,7 +20,7 @@ week-5:  Terminal and VS Code
 week-6: Set up the project with uv and added pandas. check.py prints the pandas version.
         https://github.com/eatahine/Geodev-lab-project/tree/main/Week-6
 
-week-7:  analyse.py reads wards.csv, converts and classifies each ward
+week-7:  analyse.py reads wards.csv, converts each area and classifies each ward
          https://github.com/eatahine/Geodev-lab-project/tree/main/week-7
 
 

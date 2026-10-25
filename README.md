@@ -23,5 +23,9 @@ week-6: Set up the project with uv and added pandas. check.py prints the pandas 
 week-7:  analyse.py reads wards.csv, converts each area and classifies each ward
          https://github.com/eatahine/Geodev-lab-project/tree/main/week-7
 
+week-8:  inspect_data.py summarizes the area and population fields (columns) in my sapele population data (sap_pop2.csv)
+         https://github.com/eatahine/Geodev-lab-project/tree/main/week-8
+
+
 
 

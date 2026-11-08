@@ -26,6 +26,9 @@ week-7:  analyse.py reads wards.csv, converts each area and classifies each ward
 week-8:  inspect_data.py summarizes the area and population fields (columns) in my sapele population data (sap_pop2.csv)
          https://github.com/eatahine/Geodev-lab-project/tree/main/week-8
 
+week-9:  smmary.py gave a summary of the data using just functions that were broken down into 3 parts for ease of reading and for automation in respect to future use.  
+         ### Month-2 Reflection: I understand the concept of refactoring, and how it saves time and reduces workload for repeatable tasks. It also make the code easier to change without breaking anything. However, some functions are still a bit fuzzy while creating them, for instance the "summarize_all" function.
+         https://github.com/eatahine/Geodev-lab-project/tree/main/week-9
 
 
 
